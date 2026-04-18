@@ -1,6 +1,13 @@
 # OpenClaw MS Teams Report
 
-GitHub Pages showcase site for a live OpenClaw session driven from Microsoft Teams chat on mobile.
+GitHub Pages showcase site for live OpenClaw demonstrations driven from Microsoft Teams and focused on Microsoft-first agentic operations.
+
+## What it contains
+
+- Live demonstration highlights from Teams-driven OpenClaw sessions
+- Stakeholder-facing positioning for agentic operations in the Microsoft ecosystem
+- A growing catalog of Power Automate demonstration ideas
+- A living narrative of how conversational intent becomes durable workflow infrastructure
 
 ## Local preview
 
